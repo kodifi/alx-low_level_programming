@@ -3,7 +3,7 @@
  * main - orint _putchar
  * done by kodifi
  * Return: 0
-*/
+ */
 
 int main(void)
 {
