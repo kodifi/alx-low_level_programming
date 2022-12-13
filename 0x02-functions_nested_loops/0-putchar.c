@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - orint _putchar
+ * main - print _putchar
  * done by kodifi
  * Return: 0
  */
